@@ -4,6 +4,9 @@ to run this project install the boostrap
 install all the packages
 for frontend use the npm run dev
 connect the backend
-to ruun server use the npm nodemon
+to ruun server use the npm nodemon 
+authentications like 
+Employee : anika.sharma@example.com , Password : password1234
+Adim:charan@gmail.com,passwordLpassword1234
 
 link:https://pay-nest-6k2b.vercel.app/
